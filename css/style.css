@@ -2,6 +2,23 @@
 	font-size:1.5em;
 }*/
 
+/*html, body {
+	height:100%;
+	background-repeat: no-repeat;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#eeeeee));
+}*/
+
+.thumbnail { 
+	padding-top: 1em;
+	box-shadow: 1px 1px 1px #888888;
+	text-align:center;
+}
+
+.thumbnail h3 {
+	font-size:2.5em;
+	color:#ccc;
+}
+
 .jumbotron h1, h2 {
 	opacity:0.5;
 }
